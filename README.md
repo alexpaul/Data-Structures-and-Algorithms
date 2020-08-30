@@ -9,8 +9,6 @@ A repository for Data Structures and Algorithms.
 ## 2. Algorithms and Pseudocode 
 
 ## 3. Built-in Data Structures
-<details>
-      <summary>Built-in Data Structures</summary> 
  <ul>
   <li>Strings</li>
   <li>Arrays</li>
@@ -18,12 +16,8 @@ A repository for Data Structures and Algorithms.
   <li>Dictionaries</li>
 </ul>
       
-</details> 
-
 
 ## 4. Abstract Data Structures
-<details>
-      <summary>Abstract Data Structures</summary> 
  <ul>
   <li>Stacks</li>
   <li>Queues</li>
@@ -31,13 +25,8 @@ A repository for Data Structures and Algorithms.
   <li>Hash Table</li>
   <li>Trees</li>
 </ul>
-      
-</details> 
-
 
 ## 5. Sorting Algorithms
-<details>
-      <summary>Sorting Algorithms</summary> 
  <ul>
   <li>Bubble Sort</li>
   <li>Insertion Sort</li>
@@ -45,4 +34,3 @@ A repository for Data Structures and Algorithms.
   <li>Merge Sort</li>
 </ul>
       
-</details> 
