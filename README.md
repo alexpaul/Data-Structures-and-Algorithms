@@ -33,4 +33,10 @@ A repository for Data Structures and Algorithms.
   <li>Quick Sort</li>
   <li>Merge Sort</li>
 </ul>
+
+## 6. Related Topics 
+ <ul>
+  <li>Recursion</li>
+  <li>Dynamic Programming and Memoization</li>
+</ul>
       
