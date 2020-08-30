@@ -73,7 +73,7 @@ Videos
 
 Mathematics
  <ul>
- <li><a href="https://brilliant.org/wiki/discrete-mathematics/#:~:text=Discrete%20mathematics%20is%20the%20study,can%20be%20finite%20or%20infinite">Discrete Mathematics</a></li>
+ <li><a href="https://brilliant.org/wiki/discrete-mathematics/#:~:text=Discrete%20mathematics%20is%20the%20study,can%20be%20finite%20or%20infinite">Brilliant.org - Discrete Mathematics</a></li>
 </ul>
 
 Other Resources 
