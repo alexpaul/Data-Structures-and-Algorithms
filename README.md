@@ -21,9 +21,10 @@ A repository for Data Structures and Algorithms.
 ## 8. Linked List 
 
 ## 9. Sorting Algrorithms 
+
       <ul>
-      Bubble Sort 
-      Insertion Sort 
-      Quick Sort 
-      Merge Sort 
+        Bubble Sort 
+        Insertion Sort 
+        Quick Sort 
+        Merge Sort 
       </ul>
