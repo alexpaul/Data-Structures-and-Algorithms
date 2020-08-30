@@ -65,10 +65,14 @@ Sites for Coding Practice
   <li>Project Euler</li>
 </ul>
 
+Videos
+ <ul>
+ <li><a href="https://www.youtube.com/watch?v=v4cd1O4zkGw&list=LL&index=24&t=15s">HackerRank - Big O Notation</a></li>
+</ul>
+
 Other Resources 
  <ul>
   <li>Big O CheatSheet</li>
-  <li>Project Euler</li>
   <li><a href="https://www.freecodecamp.org/news/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3/">Top Data Structures to Know</a></li>
 </ul>
 
