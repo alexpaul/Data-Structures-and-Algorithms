@@ -68,6 +68,7 @@ Sites for Coding Practice
 Videos
  <ul>
  <li><a href="https://www.youtube.com/watch?v=v4cd1O4zkGw&list=LL&index=24&t=15s">HackerRank - Big O Notation</a></li>
+ <li><a href="https://www.youtube.com/watch?v=GKgAVjJxh9w&list=LL&index=23">HackerRank - 7 Steps to Solve Algorithm Problems</a></li>
 </ul>
 
 Other Resources 
