@@ -71,6 +71,11 @@ Videos
  <li><a href="https://www.youtube.com/watch?v=GKgAVjJxh9w&list=LL&index=23">HackerRank - 7 Steps to Solve Algorithm Problems</a></li>
 </ul>
 
+Mathematics
+ <ul>
+ <li><a href="https://brilliant.org/wiki/discrete-mathematics/#:~:text=Discrete%20mathematics%20is%20the%20study,can%20be%20finite%20or%20infinite">Discrete Mathematics</a></li>
+</ul>
+
 Other Resources 
  <ul>
   <li>Big O CheatSheet</li>
