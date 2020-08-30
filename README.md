@@ -34,13 +34,19 @@ A repository for Data Structures and Algorithms.
   <li>Merge Sort</li>
 </ul>
 
-## 6. Related Topics 
+
+## 6. Searching Algorithms
+ <ul>
+  <li>Binary Search</li>
+</ul>
+
+## 7. Related Topics 
  <ul>
   <li>Recursion</li>
   <li>Dynamic Programming and Memoization</li>
 </ul>
 
-## 7. Coding Platforms and Resources
+## 8. Coding Platforms and Resources
  <ul>
   <li>Big O CheatSheet</li>
   <li>LeetCode</li>
