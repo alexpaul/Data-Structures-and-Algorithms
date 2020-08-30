@@ -22,9 +22,13 @@ A repository for Data Structures and Algorithms.
 
 ## 9. Sorting Algrorithms 
 
-      <ul>
-        Bubble Sort 
-        Insertion Sort 
-        Quick Sort 
-        Merge Sort 
-      </ul>
+<details>
+      <summary>Sorting Algorithms</summary> 
+ <ul>
+  <li>Bubble Sort</li>
+  <li>Insertion Sort</li>
+  <li>Quick Sort</li>
+  <li>Merge Sort</li>
+</ul>
+      
+</details> 
