@@ -39,4 +39,15 @@ A repository for Data Structures and Algorithms.
   <li>Recursion</li>
   <li>Dynamic Programming and Memoization</li>
 </ul>
+
+## 7. Coding Platforms and Resources
+ <ul>
+  <li>Big O CheatSheet</li>
+  <li>LeetCode</li>
+  <li>HackerRank</li>
+  <li>Codility</li>
+  <li>Pramp</li>
+ <li>Interview Cake</li>
+</ul>
+
       
