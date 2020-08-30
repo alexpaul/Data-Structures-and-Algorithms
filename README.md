@@ -1,4 +1,4 @@
-# Data Structures and Algorithms
+# Data Structures and Algorithms (DSAs)
 
 A repository for Data Structures and Algorithms. 
 
