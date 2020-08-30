@@ -20,8 +20,9 @@ A repository for Data Structures and Algorithms.
 
 ## 8. Linked List 
 
+## 9. Sorting Algorithms
 <details>
-      <summary><h2>9. Sorting Algorithms</h2></summary> 
+      <summary>Sorting Algorithms</summary> 
  <ul>
   <li>Bubble Sort</li>
   <li>Insertion Sort</li>
