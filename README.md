@@ -8,19 +8,34 @@ A repository for Data Structures and Algorithms.
 
 ## 2. Algorithms and Pseudocode 
 
-## 3. Strings 
+## 3. Built-in Data Structures
+<details>
+      <summary>Built-in Data Structures</summary> 
+ <ul>
+  <li>Strings</li>
+  <li>Arrays</li>
+  <li>Sets</li>
+  <li>Dictionaries</li>
+</ul>
+      
+</details> 
 
-## 4. Arrays
 
-## 5. Dictionaries 
+## 4. Abstract Data Structures
+<details>
+      <summary>Abstract Data Structures</summary> 
+ <ul>
+  <li>Stacks</li>
+  <li>Queues</li>
+  <li>Linked List</li>
+  <li>Hash Table</li>
+  <li>Trees</li>
+</ul>
+      
+</details> 
 
-## 6. Stacks 
 
-## 7. Queues
-
-## 8. Linked List 
-
-## 9. Sorting Algorithms
+## 5. Sorting Algorithms
 <details>
       <summary>Sorting Algorithms</summary> 
  <ul>
