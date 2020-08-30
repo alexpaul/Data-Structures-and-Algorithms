@@ -47,16 +47,29 @@ A repository for Data Structures and Algorithms.
 </ul>
 
 ## 8. Coding Platforms and Resources
+
+Books
+<ul>
+ <li>Cracking the coding interview</li>
+ <li>Swift Coding Challenges</li> 
+ <li>Ray Wenderlich: Data Structures and Algorithms</li>
+</ul> 
+
+Sites for Coding Practice
  <ul>
-  <li>Big O CheatSheet</li>
   <li>LeetCode</li>
   <li>HackerRank</li>
   <li>Codility</li>
   <li>Pramp</li>
   <li>Interview Cake</li>
   <li>Project Euler</li>
-  <li><a href="https://www.freecodecamp.org/news/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3/">Top Data Structures to Know</a></li>
+</ul>
 
+Other Resources 
+ <ul>
+  <li>Big O CheatSheet</li>
+  <li>Project Euler</li>
+  <li><a href="https://www.freecodecamp.org/news/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3/">Top Data Structures to Know</a></li>
 </ul>
 
       
