@@ -18,27 +18,23 @@ A repository for Data Structures and Algorithms.
 * Dictionaries
 
 ## 4. Abstract Data Structures
- <ul>
-  <li>Stacks</li>
-  <li>Queues</li>
-  <li>Linked List</li>
-  <li>Hash Table</li>
-  <li>Trees</li>
-</ul>
+
+* Stacks 
+* Queues 
+* Linked List 
+* Hash Table 
+* Trees 
 
 ## 5. Sorting Algorithms
- <ul>
-  <li>Bubble Sort</li>
-  <li>Insertion Sort</li>
-  <li>Quick Sort</li>
-  <li>Merge Sort</li>
-</ul>
 
+* Bubble Sore 
+* Insertion Sort 
+* Quick Sort 
+* Merge Sort
 
 ## 6. Searching Algorithms
- <ul>
-  <li>Binary Search</li>
-</ul>
+
+* Binary Search 
 
 ## 7. Related Topics 
 
