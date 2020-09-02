@@ -9,6 +9,13 @@ A repository for Data Structures and Algorithms.
 ## 2. Algorithms and Pseudocode 
 
 ## 3. Built-in Data Structures
+
+1. Strings 
+   1. HackerRank
+1. Arrays 
+1. Sets
+1. Dictionaries
+
  <ul>
   <li>Strings</li>
   <li>Arrays</li>
