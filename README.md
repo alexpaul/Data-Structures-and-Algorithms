@@ -41,10 +41,10 @@ A repository for Data Structures and Algorithms.
 </ul>
 
 ## 7. Related Topics 
- <ul>
-  <li>Recursion</li>
-  <li>Dynamic Programming and Memoization</li>
-</ul>
+
+* Recursion 
+  * [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion)
+* Dynamic Programming and Memoization 
 
 ## 8. Coding Platforms and Resources
 
