@@ -46,41 +46,73 @@ A repository for Data Structures and Algorithms.
   * [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion)
 * Dynamic Programming and Memoization 
 
-## 8. Coding Platforms and Resources
+## 8. Resources
 
-Books
-<ul>
- <li>Cracking the coding interview</li>
- <li>Swift Coding Challenges</li> 
- <li>Ray Wenderlich: Data Structures and Algorithms</li>
-</ul> 
 
-Sites for Coding Practice
- <ul>
-  <li>LeetCode</li>
-  <li>HackerRank</li>
-  <li>Codility</li>
-  <li>Pramp</li>
-  <li>Interview Cake</li>
-  <li>Project Euler</li>
-</ul>
+#### Books 
 
-Videos
- <ul>
- <li><a href="https://www.youtube.com/watch?v=v4cd1O4zkGw&list=LL&index=24&t=15s">HackerRank - Big O Notation</a></li>
- <li><a href="https://www.youtube.com/watch?v=GKgAVjJxh9w&list=LL&index=23">HackerRank - 7 Steps to Solve Algorithm Problems</a></li>
-</ul>
+1. [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
+1. Swift Coding Challenges
+1. Ray Wenderlich: Data Structures and Algorithms
 
-Mathematics
- <ul>
- <li><a href="https://brilliant.org/wiki/discrete-mathematics/#:~:text=Discrete%20mathematics%20is%20the%20study,can%20be%20finite%20or%20infinite">Brilliant.org - Discrete Mathematics</a></li>
-</ul>
 
-Other Resources 
- <ul>
-  <li>Big O CheatSheet</li>
-  <li><a href="https://www.freecodecamp.org/news/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3/">Top Data Structures to Know</a></li>
-  <li><a href="https://www.interviewcake.com/concept/java/call-stack">Interview Cake - Call Stack</a></li>
-</ul>
+#### Video 
+
+1. [HackerRank - Big O](https://www.youtube.com/watch?v=v4cd1O4zkGw&list=LL&index=26&t=17s)
+1. [HackerRank - Solving Algorithms](https://www.youtube.com/watch?v=GKgAVjJxh9w&list=LL&index=27&t=0s)
+
+
+#### Time and Space Complexity  
+
+1. [Big O Cheatsheet](https://www.bigocheatsheet.com/)
+1. [Understanding Space Complexity](https://www.baeldung.com/cs/space-complexity)
+1. [Interview Cake - Big O Notation](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity?)
+1. [moducode - Time & Space Complexity in Functions – Big O Notation](https://moducode.com/blog/time-space-complexity-functions-big-o-notation/)
+
+
+#### Other Articles 
+
+1. [Big O Cheatsheet]()
+1. [Using STDIN for inputs and STDOUT for outputs](https://support.hackerrank.com/hc/en-us/articles/219617888-Using-STDIN-for-inputs-and-STDOUT-for-outputs)
+1. [How to make a cake](https://www.bhg.com/recipes/how-to/bake/how-to-make-a-cake/)
+1. [Interview Cake - Call Stack](https://www.interviewcake.com/concept/java/call-stack)
+1. [HWS - Measuring executing speed](https://www.hackingwithswift.com/example-code/system/measuring-execution-speed-using-cfabsolutetimegetcurrent)
+
+
+#### Must Read 
+
+1. [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
+
+
+#### On Interviewing 
+
+1. [What's it like to interview at Pinterst](https://medium.com/pinterest-engineering/what-its-like-to-interview-at-pinterest-e40f05a018f9)
+
+
+#### Online IDEs 
+
+1. [repl.it](https://repl.it/~)
+1. [coderpad.io](https://coderpad.io/)
+
+
+#### Sites for Coding Practice
+
+1. [LeetCode](https://leetcode.com/)
+1. [HackerRank](https://www.hackerrank.com/dashboard)
+1. Codility 
+1. Pramp 
+1. Interview Cake 
+1. Project Euler
+
+
+#### Mathematics 
+
+1. [Brilliant.org - Discrete Mathematics](https://brilliant.org/wiki/discrete-mathematics/#:~:text=Discrete%20mathematics%20is%20the%20study,can%20be%20finite%20or%20infinite)
+
+
+#### Documentation 
+
+1. [Apple docs - Memory footprint of a given instance](https://developer.apple.com/documentation/swift/memorylayout/2486283-size)
+ 
 
       
