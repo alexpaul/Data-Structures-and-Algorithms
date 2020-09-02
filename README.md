@@ -72,7 +72,6 @@ A repository for Data Structures and Algorithms.
 
 #### Other Articles 
 
-1. [Using STDIN for inputs and STDOUT for outputs](https://support.hackerrank.com/hc/en-us/articles/219617888-Using-STDIN-for-inputs-and-STDOUT-for-outputs)
 1. [How to make a cake](https://www.bhg.com/recipes/how-to/bake/how-to-make-a-cake/)
 1. [Interview Cake - Call Stack](https://www.interviewcake.com/concept/java/call-stack)
 1. [HWS - Measuring executing speed](https://www.hackingwithswift.com/example-code/system/measuring-execution-speed-using-cfabsolutetimegetcurrent)
@@ -92,6 +91,7 @@ A repository for Data Structures and Algorithms.
 
 1. [repl.it](https://repl.it/~)
 1. [coderpad.io](https://coderpad.io/)
+1. [Using STDIN for inputs and STDOUT for outputs](https://support.hackerrank.com/hc/en-us/articles/219617888-Using-STDIN-for-inputs-and-STDOUT-for-outputs)
 
 
 #### Sites for Coding Practice
