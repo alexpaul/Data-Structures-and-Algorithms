@@ -10,11 +10,11 @@ A repository for Data Structures and Algorithms.
 
 ## 3. Built-in Data Structures
 
-1. Strings 
-   1. HackerRank
-1. Arrays 
-1. Sets
-1. Dictionaries
+* Strings 
+   * HackerRank
+* Arrays 
+* Sets
+* Dictionaries
 
  <ul>
   <li>Strings</li>
