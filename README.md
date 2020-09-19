@@ -14,7 +14,7 @@ A repository for Data Structures and Algorithms.
 
 ## 4. Built-in Data Structures
 
-* Strings 
+* [String](https://github.com/alexpaul/String)
    * [LeetCode](https://leetcode.com/tag/string/)
    * [HackerRank](https://www.hackerrank.com/domains/algorithms/strings/page/1)
 * Arrays 
