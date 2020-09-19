@@ -4,9 +4,9 @@ A repository for Data Structures and Algorithms.
 
 # Table of Contents 
 
-## 1. Big O Notation 
+## 1. [Big O Notation](https://github.com/alexpaul/Big-O-Notation) 
 
-## 2. Algorithms and Pseudocode 
+## 2. [Algorithms and Pseudocode](https://github.com/alexpaul/Algorithms-and-Pseudocode)
 
 ## 3. Built-in Data Structures
 
@@ -38,7 +38,7 @@ A repository for Data Structures and Algorithms.
 
 ## 7. Related Topics 
 
-* Recursion 
+* [Recursion]()
   * [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion)
 * Dynamic Programming and Memoization 
 
