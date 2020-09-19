@@ -9,7 +9,8 @@ A repository for Data Structures and Algorithms.
 ## 2. [Algorithms and Pseudocode](https://github.com/alexpaul/Algorithms-and-Pseudocode)
 
 ## 3. [Functions, Recursion and the Call Stack](https://github.com/alexpaul/Functions-Recursion-Call-Stack)
-      * [Higher Order Functions](https://github.com/alexpaul/Higher-Order-Functions)
+
+* [Higher Order Functions](https://github.com/alexpaul/Higher-Order-Functions)
 
 ## 4. Built-in Data Structures
 
