@@ -8,7 +8,9 @@ A repository for Data Structures and Algorithms.
 
 ## 2. [Algorithms and Pseudocode](https://github.com/alexpaul/Algorithms-and-Pseudocode)
 
-## 3. Built-in Data Structures
+## 3. [Functions, Recursion and the Call Stack](https://github.com/alexpaul/Functions-Recursion-Call-Stack)
+
+## 4. Built-in Data Structures
 
 * Strings 
    * [LeetCode](https://leetcode.com/tag/string/)
@@ -17,7 +19,7 @@ A repository for Data Structures and Algorithms.
 * Sets
 * Dictionaries
 
-## 4. Abstract Data Structures
+## 5. Abstract Data Structures
 
 * Stacks 
 * Queues 
@@ -25,25 +27,24 @@ A repository for Data Structures and Algorithms.
 * Hash Table 
 * Trees 
 
-## 5. Sorting Algorithms
+## 6. Sorting Algorithms
 
 * Bubble Sore 
 * Insertion Sort 
 * Quick Sort 
 * Merge Sort
 
-## 6. Searching Algorithms
+## 7. Searching Algorithms
 
 * Binary Search 
 
-## 7. Related Topics 
+## 8. Related Topics 
 
-* [Functions](https://github.com/alexpaul/Functions-Recursion-Call-Stack)
 * [Recursion](https://github.com/alexpaul/Functions-Recursion-Call-Stack)
   * [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion)
 * Dynamic Programming and Memoization 
 
-## 8. Resources
+## 9. Resources
 
 
 #### Books 
