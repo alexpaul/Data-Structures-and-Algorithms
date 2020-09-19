@@ -38,7 +38,8 @@ A repository for Data Structures and Algorithms.
 
 ## 7. Related Topics 
 
-* [Recursion]()
+* [Functions](https://github.com/alexpaul/Functions-Recursion-Call-Stack)
+* [Recursion](https://github.com/alexpaul/Functions-Recursion-Call-Stack)
   * [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion)
 * Dynamic Programming and Memoization 
 
