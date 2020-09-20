@@ -19,17 +19,17 @@ A repository for Data Structures and Algorithms.
    * [HackerRank](https://www.hackerrank.com/domains/algorithms/strings/page/1)
 * Character
 * CharacterSet
-* Arrays 
-* Sets
-* Dictionaries
+* Array
+* Set
+* Dictionary
 
 ## 5. Abstract Data Structures
 
-* Stacks 
-* Queues 
+* Stack
+* Queue
 * Linked List 
 * Hash Table 
-* Trees 
+* Tree
 
 ## 6. Sorting Algorithms
 
