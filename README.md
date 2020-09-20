@@ -33,7 +33,7 @@ A repository for Data Structures and Algorithms.
 
 ## 6. Sorting Algorithms
 
-* Bubble Sore 
+* Bubble Sort
 * Insertion Sort 
 * Quick Sort 
 * Merge Sort
