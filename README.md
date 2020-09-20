@@ -17,6 +17,8 @@ A repository for Data Structures and Algorithms.
 * [String](https://github.com/alexpaul/String)
    * [LeetCode](https://leetcode.com/tag/string/)
    * [HackerRank](https://www.hackerrank.com/domains/algorithms/strings/page/1)
+* Character
+* CharacterSet
 * Arrays 
 * Sets
 * Dictionaries
