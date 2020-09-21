@@ -17,9 +17,9 @@ A repository for Data Structures and Algorithms.
 * [String](https://github.com/alexpaul/String)
    * [LeetCode](https://leetcode.com/tag/string/)
    * [HackerRank](https://www.hackerrank.com/domains/algorithms/strings/page/1)
-* Character
-* CharacterSet
-* Array
+* [Character](https://github.com/alexpaul/Character-and-CharacterSet)
+* [CharacterSet](https://github.com/alexpaul/Character-and-CharacterSet)
+* [Array](https://github.com/alexpaul/Array)
 * Set
 * Dictionary
 
@@ -27,9 +27,11 @@ A repository for Data Structures and Algorithms.
 
 * Stack
 * Queue
-* Linked List 
+* [Linked List](https://github.com/alexpaul/LinkedList)
 * Hash Table 
 * Tree
+* Heap 
+* Graph 
 
 ## 6. Sorting Algorithms
 
