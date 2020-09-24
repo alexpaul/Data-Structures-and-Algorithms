@@ -36,17 +36,23 @@ A repository for Data Structures and Algorithms.
 ## 6. Sorting Algorithms
 
 * Bubble Sort
+  * [LeetCode - Sort Colors](https://leetcode.com/problems/sort-colors/)
 * Insertion Sort 
+  * [LeetCode - Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 * Quick Sort 
 * Merge Sort
+
+[LeetCode - Sort Problems](https://leetcode.com/tag/sort/)
 
 ## 7. Searching Algorithms
 
 * Binary Search 
+  * [LeetCode](https://leetcode.com/tag/binary-search/)
 
 ## 8. Related Topics 
 
 * [Recursion](https://github.com/alexpaul/Functions-Recursion-Call-Stack)
+  * [LeetCode](https://leetcode.com/tag/recursion/)
   * [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion)
 * Dynamic Programming and Memoization 
 
