@@ -21,7 +21,7 @@ A repository for Data Structures and Algorithms.
 * [CharacterSet](https://github.com/alexpaul/Character-and-CharacterSet)
 * [Array](https://github.com/alexpaul/Array)
 * Set
-* Dictionary
+* [Dictionary](https://github.com/alexpaul/Dictionary)
   * [LeetCode](https://leetcode.com/tag/hash-table/)
 
 ## 5. Abstract Data Structures
