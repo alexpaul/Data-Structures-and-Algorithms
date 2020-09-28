@@ -22,6 +22,7 @@ A repository for Data Structures and Algorithms.
 * [Array](https://github.com/alexpaul/Array)
 * Set
 * Dictionary
+  * [LeetCode](https://leetcode.com/tag/hash-table/)
 
 ## 5. Abstract Data Structures
 
@@ -29,6 +30,7 @@ A repository for Data Structures and Algorithms.
 * Queue
 * [Linked List](https://github.com/alexpaul/LinkedList)
 * Hash Table 
+  * [LeetCode](https://leetcode.com/tag/hash-table/)
 * Tree
 * Heap 
 * Graph 
