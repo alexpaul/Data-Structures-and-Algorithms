@@ -30,6 +30,7 @@ A repository for Data Structures and Algorithms.
 * Stack
 * Queue
 * [Linked List](https://github.com/alexpaul/LinkedList)
+  * [LeetCode](https://leetcode.com/tag/linked-list/)
 * Hash Table 
   * [LeetCode](https://leetcode.com/tag/hash-table/)
 * Tree
