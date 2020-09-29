@@ -20,6 +20,7 @@ A repository for Data Structures and Algorithms.
 * [Character](https://github.com/alexpaul/Character-and-CharacterSet)
 * [CharacterSet](https://github.com/alexpaul/Character-and-CharacterSet)
 * [Array](https://github.com/alexpaul/Array)
+  * [LeetCode](https://leetcode.com/tag/array/)
 * Set
 * [Dictionary](https://github.com/alexpaul/Dictionary)
   * [LeetCode](https://leetcode.com/tag/hash-table/)
