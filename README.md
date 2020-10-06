@@ -27,7 +27,8 @@ A repository for Data Structures and Algorithms.
 
 ## 5. Abstract Data Structures
 
-* Stack
+* [Stack](https://github.com/alexpaul/Stack)
+  * [LeetCode](https://leetcode.com/tag/stack/)
 * Queue
 * [Linked List](https://github.com/alexpaul/LinkedList)
   * [LeetCode](https://leetcode.com/tag/linked-list/)
