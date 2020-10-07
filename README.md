@@ -83,6 +83,7 @@ A repository for Data Structures and Algorithms.
 
 1. [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 1. Swift Coding Challenges
+1. [DSA](https://apps2.mdp.ac.id/perpustakaan/ebook/Karya%20Umum/Dsa.pdf)
 1. Ray Wenderlich: Data Structures and Algorithms
 
 
@@ -99,12 +100,17 @@ A repository for Data Structures and Algorithms.
 1. [Interview Cake - Big O Notation](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity?)
 1. [moducode - Time & Space Complexity in Functions – Big O Notation](https://moducode.com/blog/time-space-complexity-functions-big-o-notation/)
 
+#### Coding Resource Sites 
+
+1. [GeeksForGeeks](https://www.geeksforgeeks.org/)
+
 
 #### Other Articles 
 
 1. [How to make a cake](https://www.bhg.com/recipes/how-to/bake/how-to-make-a-cake/)
 1. [Interview Cake - Call Stack](https://www.interviewcake.com/concept/java/call-stack)
 1. [HWS - Measuring executing speed](https://www.hackingwithswift.com/example-code/system/measuring-execution-speed-using-cfabsolutetimegetcurrent)
+1. [Practice coding in a Google Doc](https://www.quora.com/What-are-some-tips-for-practicing-coding-on-Google-docs-for-a-phone-screen)
 
 
 #### Must Read 
@@ -129,10 +135,13 @@ A repository for Data Structures and Algorithms.
 1. [LeetCode](https://leetcode.com/)
 1. [HackerRank](https://www.hackerrank.com/dashboard)
 1. Codility 
+1. [Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 1. Pramp 
+1. [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 1. Interview Cake 
-1. Project Euler
-
+1. [Project Euler](https://projecteuler.net/)
+1. [Practice Problems Sorted by Company Interest](https://practice.geeksforgeeks.org/explore/?company%5B%5D=Amazon&page=1)
+1. [500 Data Structures and Algorithms](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
 
 #### Mathematics 
 
