@@ -1,6 +1,6 @@
 # Data Structures and Algorithms (DSAs)
 
-A repository for Data Structures and Algorithms. 
+A repository for Data Structures and Algorithms in Swift. 
 
 # Table of Contents 
 
