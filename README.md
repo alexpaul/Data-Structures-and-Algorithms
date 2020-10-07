@@ -35,7 +35,9 @@ A repository for Data Structures and Algorithms.
 * Hash Table 
   * [LeetCode](https://leetcode.com/tag/hash-table/)
 * Tree
+* Binary Search Tree
 * Heap 
+* Trie
 * Graph 
 
 ## 6. Sorting Algorithms
@@ -59,12 +61,20 @@ A repository for Data Structures and Algorithms.
 * Binary Search 
   * [LeetCode](https://leetcode.com/tag/binary-search/)
 
-## 8. Related Topics 
+## 8. Related Topics and Algorithms 
 
 * [Recursion](https://github.com/alexpaul/Functions-Recursion-Call-Stack)
   * [LeetCode](https://leetcode.com/tag/recursion/)
   * [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion)
 * Dynamic Programming and Memoization 
+* Divide and Conquer
+* Kadane 
+* Two Pointers 
+* Backtracking 
+* BFS 
+* DFS
+* Sliding Window
+* Bit Manipulation
 
 ## 9. Resources
 
