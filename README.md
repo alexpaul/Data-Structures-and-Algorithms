@@ -152,6 +152,7 @@ A repository for Data Structures and Algorithms in Swift.
 #### Documentation 
 
 1. [Apple docs - Memory footprint of a given instance](https://developer.apple.com/documentation/swift/memorylayout/2486283-size)
+1. [Swift Algorithms](https://swift.org/blog/swift-algorithms/)
  
 
       
