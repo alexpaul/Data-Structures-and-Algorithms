@@ -58,7 +58,7 @@ A repository for Data Structures and Algorithms in Swift.
 
 ## 7. Searching Algorithms
 
-* Binary Search 
+* [Binary Search](https://github.com/alexpaul/Binary-Search) 
   * [LeetCode](https://leetcode.com/tag/binary-search/)
 
 ## 8. Related Topics and Algorithms 
