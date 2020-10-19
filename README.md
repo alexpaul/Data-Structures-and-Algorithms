@@ -29,7 +29,8 @@ A repository for Data Structures and Algorithms in Swift.
 
 * [Stack](https://github.com/alexpaul/Stack)
   * [LeetCode](https://leetcode.com/tag/stack/)
-* Queue
+* [Queue](https://github.com/alexpaul/Queue)
+  * [LeetCode](https://leetcode.com/tag/queue/)
 * [Linked List](https://github.com/alexpaul/LinkedList)
   * [LeetCode](https://leetcode.com/tag/linked-list/)
 * Hash Table 
