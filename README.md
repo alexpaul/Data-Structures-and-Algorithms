@@ -49,7 +49,7 @@ A repository for Data Structures and Algorithms in Swift.
   * [LeetCode - Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 * Quick Sort 
   * [LeetCode - Sort an Array](https://leetcode.com/problems/sort-an-array/)
-* Merge Sort
+* [Merge Sort](https://github.com/alexpaul/Merge-Sort)
   * [LeetCode - Sort an Array](https://leetcode.com/problems/sort-an-array/)
   * [LeetCode - Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
   * [LeetCode - Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
