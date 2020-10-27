@@ -33,7 +33,7 @@ A repository for Data Structures and Algorithms in Swift.
   * [LeetCode](https://leetcode.com/tag/queue/)
 * [Linked List](https://github.com/alexpaul/LinkedList)
   * [LeetCode](https://leetcode.com/tag/linked-list/)
-* Hash Table 
+* [Hash Table](https://github.com/alexpaul/Hash-Table)
   * [LeetCode](https://leetcode.com/tag/hash-table/)
 * Tree
 * Binary Search Tree
