@@ -43,9 +43,9 @@ A repository for Data Structures and Algorithms in Swift.
 
 ## 6. Sorting Algorithms
 
-* Bubble Sort
+* [Bubble Sort](https://github.com/alexpaul/Quadratic-Sorting-Algorithms)
   * [LeetCode - Sort Colors](https://leetcode.com/problems/sort-colors/)
-* Insertion Sort 
+* [Insertion Sort](https://github.com/alexpaul/Quadratic-Sorting-Algorithms)
   * [LeetCode - Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 * Quick Sort 
   * [LeetCode - Sort an Array](https://leetcode.com/problems/sort-an-array/)
