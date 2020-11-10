@@ -47,7 +47,7 @@ A repository for Data Structures and Algorithms in Swift.
   * [LeetCode - Sort Colors](https://leetcode.com/problems/sort-colors/)
 * [Insertion Sort](https://github.com/alexpaul/Quadratic-Sorting-Algorithms)
   * [LeetCode - Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
-* Quick Sort 
+* [Quick Sort](https://github.com/alexpaul/Quick-Sort)
   * [LeetCode - Sort an Array](https://leetcode.com/problems/sort-an-array/)
 * [Merge Sort](https://github.com/alexpaul/Merge-Sort)
   * [LeetCode - Sort an Array](https://leetcode.com/problems/sort-an-array/)
