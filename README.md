@@ -37,7 +37,8 @@ A repository for Data Structures and Algorithms in Swift.
   * [LeetCode](https://leetcode.com/tag/hash-table/)
 * [Binary Tree](https://github.com/alexpaul/Binary-Tree)
   * [LeetCode](https://leetcode.com/tag/tree/)
-* Binary Search Tree
+* [Binary Search Tree](https://github.com/alexpaul/Binary-Search-Tree)
+  * [LeetCode](https://leetcode.com/tag/tree/)
 * Heap 
 * Trie
 * Graph 
