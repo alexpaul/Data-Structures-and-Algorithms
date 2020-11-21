@@ -64,7 +64,7 @@ A repository for Data Structures and Algorithms in Swift.
 * Heap 
   * [LeetCode](https://leetcode.com/tag/heap/)
 * Trie
-  * [Trie](https://leetcode.com/tag/trie/)
+  * [LeetCode](https://leetcode.com/tag/trie/)
 * Graph 
   * [LeetCode](https://leetcode.com/tag/graph/)
 
