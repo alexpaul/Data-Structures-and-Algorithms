@@ -17,6 +17,11 @@ A repository for Data Structures and Algorithms in Swift.
 * [String](https://github.com/alexpaul/String)
    * [LeetCode](https://leetcode.com/tag/string/)
    * [HackerRank](https://www.hackerrank.com/domains/algorithms/strings/page/1)
+   * [Destination City](https://leetcode.com/problems/destination-city)
+   * [Reverse String](https://leetcode.com/problems/reverse-string)
+   * [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)
+   * [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)
+   * [Custom Sort String](https://leetcode.com/problems/custom-sort-string)
 * [Character](https://github.com/alexpaul/Character-and-CharacterSet)
 * [CharacterSet](https://github.com/alexpaul/Character-and-CharacterSet)
 * [Array](https://github.com/alexpaul/Array)
@@ -57,8 +62,11 @@ A repository for Data Structures and Algorithms in Swift.
   * [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
   * []()
 * Heap 
+  * [LeetCode](https://leetcode.com/tag/heap/)
 * Trie
+  * [Trie](https://leetcode.com/tag/trie/)
 * Graph 
+  * [LeetCode](https://leetcode.com/tag/graph/)
 
 ## 6. Sorting Algorithms
 
