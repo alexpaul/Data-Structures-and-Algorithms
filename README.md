@@ -37,8 +37,15 @@ A repository for Data Structures and Algorithms in Swift.
   * [LeetCode](https://leetcode.com/tag/hash-table/)
 * [Binary Tree](https://github.com/alexpaul/Binary-Tree)
   * [LeetCode](https://leetcode.com/tag/tree/)
+  * [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
+  * [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
+  * [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 * [Binary Search Tree](https://github.com/alexpaul/Binary-Search-Tree)
   * [LeetCode](https://leetcode.com/tag/tree/)
+  * [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+  * [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
+  * [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
+  * []()
 * Heap 
 * Trie
 * Graph 
