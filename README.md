@@ -62,7 +62,7 @@ A repository for Data Structures and Algorithms in Swift.
   * [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
   * [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
   * [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
-* Heap 
+* [Heap](https://github.com/alexpaul/Heap) 
   * [LeetCode](https://leetcode.com/tag/heap/)
 * Trie
   * [LeetCode](https://leetcode.com/tag/trie/)
