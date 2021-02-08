@@ -64,7 +64,7 @@ A repository for Data Structures and Algorithms in Swift.
   * [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 * [Heap](https://github.com/alexpaul/Heap) 
   * [LeetCode](https://leetcode.com/tag/heap/)
-* Trie
+* [Trie](https://github.com/alexpaul/Trie)
   * [LeetCode](https://leetcode.com/tag/trie/)
 * Graph 
   * [LeetCode](https://leetcode.com/tag/graph/)
