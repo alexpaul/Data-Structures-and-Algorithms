@@ -165,15 +165,16 @@ A repository for Data Structures and Algorithms in Swift.
 #### Sites for Coding Practice
 
 1. [LeetCode](https://leetcode.com/)
-1. [HackerRank](https://www.hackerrank.com/dashboard)
-1. Codility 
-1. [Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
-1. Pramp 
-1. [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
-1. Interview Cake 
-1. [Project Euler](https://projecteuler.net/)
-1. [Practice Problems Sorted by Company Interest](https://practice.geeksforgeeks.org/explore/?company%5B%5D=Amazon&page=1)
-1. [500 Data Structures and Algorithms](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
+2. [HackerRank](https://www.hackerrank.com/dashboard)
+3. Codility 
+4. [Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
+5. Pramp 
+6. [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+7. Interview Cake 
+8. Prepfully
+9. [Project Euler](https://projecteuler.net/)
+10. [Practice Problems Sorted by Company Interest](https://practice.geeksforgeeks.org/explore/?company%5B%5D=Amazon&page=1)
+11. [500 Data Structures and Algorithms](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
 
 #### Mathematics 
 
