@@ -66,7 +66,7 @@ A repository for Data Structures and Algorithms in Swift.
   * [LeetCode](https://leetcode.com/tag/heap/)
 * [Trie](https://github.com/alexpaul/Trie)
   * [LeetCode](https://leetcode.com/tag/trie/)
-* Graph 
+* [Graph](https://github.com/alexpaul/Graph) 
   * [LeetCode](https://leetcode.com/tag/graph/)
 
 ## 6. Sorting Algorithms
