@@ -148,6 +148,7 @@ A repository for Data Structures and Algorithms in Swift.
 #### Must Read 
 
 1. [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
+2. [8 Data Structures every programmer must know](https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42)
 
 
 #### On Interviewing 
