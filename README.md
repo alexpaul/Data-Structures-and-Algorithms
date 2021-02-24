@@ -113,7 +113,7 @@ A repository for Data Structures and Algorithms in Swift.
 #### Books 
 
 1. [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
-1. Swift Coding Challenges
+1. Swift Coding Challenges - by Paul Hudson
 1. [DSA](https://apps2.mdp.ac.id/perpustakaan/ebook/Karya%20Umum/Dsa.pdf)
 1. Ray Wenderlich: Data Structures and Algorithms
 
