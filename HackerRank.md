@@ -71,4 +71,6 @@ func printLinkedList(head: SinglyLinkedListNode?) -> Void {
 }
 ```
 
-After running the code **Compiler error :(** 
+After running the code **Compiler error :(**   
+
+[Swift discussion thread](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/forum/comments/457354)
