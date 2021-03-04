@@ -51,6 +51,17 @@ After running the code **Congratulations!**
 #### Swift
 
 ```swift 
+// Complete the printLinkedList function below.
+
+/*
+ * For your reference:
+ *
+ * SinglyLinkedListNode {
+ *     data: Int
+ *     next: SinglyLinkedListNode?
+ * }
+ *
+ */
 func printLinkedList(head: SinglyLinkedListNode?) -> Void {
     var head = head 
     while let currentNode = head {
