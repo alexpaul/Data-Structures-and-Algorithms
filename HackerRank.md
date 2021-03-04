@@ -19,3 +19,45 @@ func challenge(arr: [[Int]]) -> Int {
     return 0
 }
 ```
+
+## 2. Case Study - Print the Elements of a Linked List 
+
+[HackerRank - Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
+
+#### JavaScript 
+
+```javascript 
+// Complete the printLinkedList function below.
+
+/*
+ * For your reference:
+ *
+ * SinglyLinkedListNode {
+ *     int data;
+ *     SinglyLinkedListNode next;
+ * }
+ *
+ */
+function printLinkedList(head) {    
+    while(head != null) {
+        console.log(head.data);
+        head = head.next;  
+    }
+}
+```
+
+After running the code **Congratulations!**
+
+#### Swift
+
+```swift 
+func printLinkedList(head: SinglyLinkedListNode?) -> Void {
+    var head = head 
+    while let currentNode = head {
+        print(currentNode.data)
+        head = currentNode.next
+    } 
+}
+```
+
+After running the code **Compiler error :(** 
