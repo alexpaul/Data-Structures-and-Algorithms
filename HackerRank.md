@@ -80,4 +80,4 @@ After running the code **Compiler error :(**
 
 * JavaScript has autocomplete support, Swift does not. 
 * JavaScript runs tests much faster. 
-* Swift encounters way more edge case run issues with the HackerRank compiler. 
+* Swift encounters way more edge case run issues within the HackerRank compiler. 
