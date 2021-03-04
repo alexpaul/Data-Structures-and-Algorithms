@@ -74,3 +74,10 @@ func printLinkedList(head: SinglyLinkedListNode?) -> Void {
 After running the code **Compiler error :(**   
 
 [Swift discussion thread](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/forum/comments/457354)
+
+
+#### Some Quick Takeaways 
+
+* JavaScript has autocomplete support, Swift does not. 
+* JavaScript runs tests much faster. 
+* Swift encounters way more edge case run issues with the HackerRank compiler. 
