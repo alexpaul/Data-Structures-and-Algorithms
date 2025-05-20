@@ -6,6 +6,16 @@ A repository for Data Structures and Algorithms in Swift.
 
 # Table of Contents 
 
+## Interview Strategy 
+
+* Clarify the problem
+* Explain brute-force approach first
+* Improve it step-by-step (optimize)
+* Talk while coding - explain your logic
+* Run through edge cases
+* Analyze time and space complexity
+* Be open to hints from the interviewer
+
 ## 1. [Big O Notation](https://github.com/alexpaul/Big-O-Notation) 
 
 ## 2. [Algorithms and Pseudocode](https://github.com/alexpaul/Algorithms-and-Pseudocode)
